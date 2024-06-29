@@ -1,6 +1,6 @@
 README.md
 
-# Проект "Посмотри в окно" [(https://github.com/ekaterinavasil/posmotri_v_okno.git)]
+# Проект "Посмотри в окно" ([https://github.com/ekaterinavasil/posmotri_v_okno.git])
 
 ## Задача
 
